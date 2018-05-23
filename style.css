@@ -1,0 +1,112 @@
+body {
+  font-family: "Helvetica Neue", sans-serif;
+}
+
+h1 {
+  color: white;
+  font-size: 28;
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 22;
+  font-weight: 500  ;
+}
+
+h3 {
+  font-size: 28;
+  font-weight: 100;
+  text-align: center;
+  height: 100;
+  padding-top: 45;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+h4 {
+  color: #1369BE;
+  font-size: 18;
+  font-weight: 400;
+  margin-top: 20;
+  margin-bottom: 15;
+}
+
+h5 {
+  color: #65696F;
+  font-size: 12;
+  text-align: center;
+  padding-bottom: 6;
+  padding-top: 0;
+  font-weight: 150;
+  margin-top: 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 24;
+}
+
+p {
+  font-size: 13;
+}
+
+.navbar {
+  background-color: #56A9F7;
+  display: flex;
+  padding: 0;
+}
+
+.logoText {
+  padding: 20;
+}
+
+.homeLink {
+  padding-top: 42;
+  padding-left: 40;
+}
+
+.catLink {
+  padding-top: 43;
+  padding-left: 40;
+  font-weight: 100;
+}
+
+.featureTitleText {
+  background-color: #DDDEE0;
+  color: #53585E;
+  padding: 1 10 8 14;
+  text-align: justify;
+  margin: 20;
+}
+
+.featureDescriptionText {
+  margin-left: 30;
+  margin-right: 30;
+}
+
+.postSocial {
+  background-color: #F1902D;
+  color: white;
+  display: flex;
+  font-size: 12;
+  padding-top: 3;
+  padding-bottom: 3;
+}
+
+.commentsnlikes {
+  padding-left: 10;
+  padding-right: 30;
+}
+
+.greybox {
+  background-color: #DDDEE0;
+  width: 25%;
+  margin-left: 45;
+  margin-right: 30;
+  margin-top: 30;
+}
+
+.boxline {
+  display: flex;
+}
